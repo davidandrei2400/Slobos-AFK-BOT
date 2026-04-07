@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "BRINTHSMP.aternos.me",
+    "ip": "BRINTHSMP.aternos.me:25765",
     "port": 25765,
     "version": "26.1.1"
   },
